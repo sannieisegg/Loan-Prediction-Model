@@ -46,7 +46,7 @@ jupyter notebook
 ```
 
 Step 4: Open and Run the Notebook
-In Jupyter Notebook, open the file Loan_Application_Predictor_Analysis.ipynb and run the cells. The notebook contains the entire process, from data preprocessing to model evaluation.
+In Jupyter Notebook, open the file Loan_Prediction_Model.ipynb and run the cells. The notebook contains the entire process, from data preprocessing to model evaluation.
 
 # Model Insights
 The model's performance is evaluated using several metrics, including:
